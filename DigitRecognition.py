@@ -1,6 +1,6 @@
 ##################
 # Digit Recognizer
-# Project by: Rutuja Kaushike (RNK170000) and Jeel Christian (JSC180001)
+# Project by: Rutuja Kaushike (RNK170000)
 # For Machine Learning : CS6375.502 F18  by Prof. Anurag Nagar
 ################## 
 
